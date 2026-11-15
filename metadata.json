@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Quest",
+  "description": "An engaging bubble shooter puzzle adventure with themed worlds, power-ups, unlockable character skins, rare boosters, and an in-game coin and life store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

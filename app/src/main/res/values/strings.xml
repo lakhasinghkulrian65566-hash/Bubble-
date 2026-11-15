@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bubble Quest</string>
+    <string name="nav_play">Worlds</string>
+    <string name="nav_skins">Skins</string>
+    <string name="nav_store">Store</string>
+    <string name="cd_hero_banner">Bubble Quest four magical themed islands</string>
+    <string name="cd_store_banner">Bubble Quest treasure chest with coins, hearts, and boosters</string>
+    <string name="cd_toggle_sound">Toggle sound effects</string>
+    <string name="cd_back_to_worlds">Back to level map</string>
+    <string name="cd_swap_bubble">Swap current and next bubble</string>
+    <string name="cd_coin_icon">Coins balance</string>
+    <string name="cd_heart_icon">Lives remaining</string>
+    <string name="cd_star_icon">Total stars earned</string>
+</resources>
